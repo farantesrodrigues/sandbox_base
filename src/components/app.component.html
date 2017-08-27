@@ -1,0 +1,11 @@
+<header>
+    {{ $ctrl.env ? 'PRODUCTION' : 'DEVELOPMENT' }}
+</header>
+<div>
+    <button ui-sref="A">A</button>
+    <button ui-sref="B">B</button>
+    <div ui-view></div>
+</div>
+<footer>
+    Copyright MyApp 2016.
+</footer>

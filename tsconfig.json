@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "target": "ES5",
+    "types": [
+      "node",
+      "angular",
+      "angular-ui-router"
+    ],
+    "lib": ["es2015", "dom"]
+  }
+}
