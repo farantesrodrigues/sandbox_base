@@ -7,7 +7,7 @@ const webpack = require('webpack')
 module.exports = {
     entry: {
         vendor: [
-            'angular-ui-router',
+            '@uirouter/angularjs',
             'oclazyload',
             'angular'
         ]

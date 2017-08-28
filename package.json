@@ -36,6 +36,7 @@
     "@types/angular-ui-router": "^1.1.37",
     "@uirouter/core": "^5.0.3",
     "angular": "^1.5.11",
+    "@uirouter/angularjs": "^1.0.3",
     "cerialize": "^0.1.16",
     "circular-dependency-plugin": "^4.1.0",
     "lodash": "^4.17.4",

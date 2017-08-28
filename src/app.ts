@@ -1,5 +1,5 @@
 import * as angular from 'angular';
-import "angular-ui-router"
+import '@uirouter/angularjs';
 import "oclazyload"
 import {AComponent, AppComponent, BComponent} from './components';
 import {routes} from "./routes";
